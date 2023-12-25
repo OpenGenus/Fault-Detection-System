@@ -1,5 +1,8 @@
-# Fault-Detection-System
+# Fault Detection System
+
 A repository for CNN based binary classification model for the task of detecting defective solar module cells.
+
+Developed by Cherifi Imane; ([Step by step documentation](https://iq.opengenus.org/fault-detection-system-predict-defective-solar-module-cells/))
 
 ## Execution
 All the codes have been run on Google Colab.
